@@ -1,0 +1,246 @@
+Added Component: Designator=*H1(端子)
+Added Component: Designator=*H2(端子)
+Added Component: Designator=1.44LCD(1.44LCD)
+Added Component: Designator=C1(3216)
+Added Component: Designator=C2(0805)
+Added Component: Designator=C3(0805)
+Added Component: Designator=C4(470UF)
+Added Component: Designator=C5(3216)
+Added Component: Designator=C6(0805)
+Added Component: Designator=C7(0805)
+Added Component: Designator=C8(3216)
+Added Component: Designator=C9(0805)
+Added Component: Designator=C10(0805)
+Added Component: Designator=C11(3216)
+Added Component: Designator=FFC1(摄像头软排)
+Added Component: Designator=K1(钮子开关)
+Added Component: Designator=K2(钮子开关)
+Added Component: Designator=LQ_KXXP144-SYSVG(LQ_KXXP144-SYSVG)
+Added Component: Designator=LS1(0905小型蜂鸣器)
+Added Component: Designator=P1(HDR1X4)
+Added Component: Designator=P2(HDR1X3)
+Added Component: Designator=P3(HDR1X3)
+Added Component: Designator=P4(HDR1X4)
+Added Component: Designator=Q1(npn)
+Added Component: Designator=R1(R-0603 - duplicate1)
+Added Component: Designator=R2(0805)
+Added Component: Designator=R3(0805)
+Added Component: Designator=R4(0805)
+Added Component: Designator=R5(0805)
+Added Component: Designator=R6(0805)
+Added Component: Designator=U1(LM2940S-5.0)
+Added Component: Designator=U2(LM2940S-5.0)
+Added Component: Designator=U3(LM2940S-5.0)
+Added Component: Designator=U4(SOT223-5)
+Added Pin To Net: NetName=AGND Pin=*H1-1
+Added Pin To Net: NetName=AGND Pin=*H2-2
+Added Pin To Net: NetName=AGND Pin=C4-2
+Added Pin To Net: NetName=AGND Pin=C5-2
+Added Pin To Net: NetName=AGND Pin=C6-2
+Added Pin To Net: NetName=AGND Pin=C7-2
+Added Pin To Net: NetName=AGND Pin=C8-2
+Added Pin To Net: NetName=AGND Pin=C9-2
+Added Pin To Net: NetName=AGND Pin=C10-2
+Added Pin To Net: NetName=AGND Pin=C11-2
+Added Pin To Net: NetName=AGND Pin=LS1-2
+Added Pin To Net: NetName=AGND Pin=P2-3
+Added Pin To Net: NetName=AGND Pin=R1-2
+Added Pin To Net: NetName=AGND Pin=R3-2
+Added Pin To Net: NetName=AGND Pin=U2-2
+Added Pin To Net: NetName=AGND Pin=U2-4
+Added Pin To Net: NetName=AGND Pin=U3-2
+Added Pin To Net: NetName=AGND Pin=U3-4
+Added Pin To Net: NetName=AGND Pin=U4-3
+Added Pin To Net: NetName=AGND Pin=U4-6
+Added Net: Name=AGND
+Added Pin To Net: NetName=DGND Pin=1.44LCD-11
+Added Pin To Net: NetName=DGND Pin=FFC1-21
+Added Pin To Net: NetName=DGND Pin=LQ_KXXP144-SYSVG-43
+Added Pin To Net: NetName=DGND Pin=P1-3
+Added Pin To Net: NetName=DGND Pin=P1-4
+Added Pin To Net: NetName=DGND Pin=P3-3
+Added Pin To Net: NetName=DGND Pin=P4-4
+Added Pin To Net: NetName=DGND Pin=R1-1
+Added Net: Name=DGND
+Added Pin To Net: NetName=Net*H1_2 Pin=*H1-2
+Added Pin To Net: NetName=Net*H1_2 Pin=K1-1
+Added Pin To Net: NetName=Net*H1_2 Pin=K1-2
+Added Net: Name=Net*H1_2
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=C2-2
+Added Pin To Net: NetName=NetC1_2 Pin=C3-2
+Added Pin To Net: NetName=NetC1_2 Pin=U1-2
+Added Pin To Net: NetName=NetC1_2 Pin=U1-4
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetLS1_VCC Pin=LS1-1
+Added Pin To Net: NetName=NetLS1_VCC Pin=Q1-3
+Added Net: Name=NetLS1_VCC
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R4-2
+Added Net: Name=NetQ1_2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=R3-1
+Added Pin To Net: NetName=NetR2_1 Pin=U4-5
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=PTA7 Pin=LQ_KXXP144-SYSVG-50
+Added Pin To Net: NetName=PTA7 Pin=P3-2
+Added Net: Name=PTA7
+Added Pin To Net: NetName=PTA8 Pin=LQ_KXXP144-SYSVG-51
+Added Pin To Net: NetName=PTA8 Pin=P2-1
+Added Net: Name=PTA8
+Added Pin To Net: NetName=PTA10 Pin=LQ_KXXP144-SYSVG-53
+Added Pin To Net: NetName=PTA10 Pin=P4-2
+Added Pin To Net: NetName=PTA10 Pin=R5-1
+Added Net: Name=PTA10
+Added Pin To Net: NetName=PTA11 Pin=LQ_KXXP144-SYSVG-54
+Added Pin To Net: NetName=PTA11 Pin=P4-1
+Added Pin To Net: NetName=PTA11 Pin=R6-1
+Added Net: Name=PTA11
+Added Pin To Net: NetName=PTA27 Pin=FFC1-4
+Added Pin To Net: NetName=PTA27 Pin=LQ_KXXP144-SYSVG-65
+Added Net: Name=PTA27
+Added Pin To Net: NetName=PTA28 Pin=FFC1-9
+Added Pin To Net: NetName=PTA28 Pin=LQ_KXXP144-SYSVG-68
+Added Net: Name=PTA28
+Added Pin To Net: NetName=PTA29 Pin=FFC1-6
+Added Pin To Net: NetName=PTA29 Pin=LQ_KXXP144-SYSVG-67
+Added Net: Name=PTA29
+Added Pin To Net: NetName=PTB0 Pin=FFC1-11
+Added Pin To Net: NetName=PTB0 Pin=LQ_KXXP144-SYSVG-70
+Added Net: Name=PTB0
+Added Pin To Net: NetName=PTB1 Pin=FFC1-12
+Added Pin To Net: NetName=PTB1 Pin=LQ_KXXP144-SYSVG-69
+Added Net: Name=PTB1
+Added Pin To Net: NetName=PTB2 Pin=FFC1-13
+Added Pin To Net: NetName=PTB2 Pin=LQ_KXXP144-SYSVG-72
+Added Net: Name=PTB2
+Added Pin To Net: NetName=PTB3 Pin=FFC1-14
+Added Pin To Net: NetName=PTB3 Pin=LQ_KXXP144-SYSVG-71
+Added Net: Name=PTB3
+Added Pin To Net: NetName=PTB4 Pin=FFC1-15
+Added Pin To Net: NetName=PTB4 Pin=LQ_KXXP144-SYSVG-74
+Added Net: Name=PTB4
+Added Pin To Net: NetName=PTB5 Pin=FFC1-16
+Added Pin To Net: NetName=PTB5 Pin=LQ_KXXP144-SYSVG-73
+Added Net: Name=PTB5
+Added Pin To Net: NetName=PTB6 Pin=FFC1-17
+Added Pin To Net: NetName=PTB6 Pin=LQ_KXXP144-SYSVG-76
+Added Net: Name=PTB6
+Added Pin To Net: NetName=PTB7 Pin=FFC1-18
+Added Pin To Net: NetName=PTB7 Pin=LQ_KXXP144-SYSVG-75
+Added Net: Name=PTB7
+Added Pin To Net: NetName=PTB10 Pin=FFC1-19
+Added Pin To Net: NetName=PTB10 Pin=LQ_KXXP144-SYSVG-80
+Added Net: Name=PTB10
+Added Pin To Net: NetName=PTB11 Pin=FFC1-20
+Added Pin To Net: NetName=PTB11 Pin=LQ_KXXP144-SYSVG-79
+Added Net: Name=PTB11
+Added Pin To Net: NetName=PTC1 Pin=LQ_KXXP144-SYSVG-89
+Added Pin To Net: NetName=PTC1 Pin=R4-1
+Added Net: Name=PTC1
+Added Pin To Net: NetName=PTC9 Pin=1.44LCD-17
+Added Pin To Net: NetName=PTC9 Pin=LQ_KXXP144-SYSVG-97
+Added Net: Name=PTC9
+Added Pin To Net: NetName=PTC10 Pin=1.44LCD-12
+Added Pin To Net: NetName=PTC10 Pin=LQ_KXXP144-SYSVG-100
+Added Net: Name=PTC10
+Added Pin To Net: NetName=PTC11 Pin=1.44LCD-19
+Added Pin To Net: NetName=PTC11 Pin=LQ_KXXP144-SYSVG-99
+Added Net: Name=PTC11
+Added Pin To Net: NetName=PTC12 Pin=1.44LCD-15
+Added Pin To Net: NetName=PTC12 Pin=LQ_KXXP144-SYSVG-102
+Added Net: Name=PTC12
+Added Pin To Net: NetName=PTC13 Pin=1.44LCD-18
+Added Pin To Net: NetName=PTC13 Pin=LQ_KXXP144-SYSVG-101
+Added Net: Name=PTC13
+Added Pin To Net: NetName=PTD5 Pin=LQ_KXXP144-SYSVG-113
+Added Pin To Net: NetName=PTD5 Pin=P3-1
+Added Net: Name=PTD5
+Added Pin To Net: NetName=PTD11 Pin=1.44LCD-16
+Added Pin To Net: NetName=PTD11 Pin=LQ_KXXP144-SYSVG-119
+Added Net: Name=PTD11
+Added Pin To Net: NetName=PTD12 Pin=1.44LCD-14
+Added Pin To Net: NetName=PTD12 Pin=LQ_KXXP144-SYSVG-122
+Added Net: Name=PTD12
+Added Pin To Net: NetName=PTD13 Pin=1.44LCD-2
+Added Pin To Net: NetName=PTD13 Pin=LQ_KXXP144-SYSVG-121
+Added Net: Name=PTD13
+Added Pin To Net: NetName=PTD14 Pin=1.44LCD-1
+Added Pin To Net: NetName=PTD14 Pin=1.44LCD-1
+Added Pin To Net: NetName=PTD14 Pin=1.44LCD-1
+Added Pin To Net: NetName=PTD14 Pin=1.44LCD-1
+Added Pin To Net: NetName=PTD14 Pin=1.44LCD-1
+Added Pin To Net: NetName=PTD14 Pin=1.44LCD-1
+Added Pin To Net: NetName=PTD14 Pin=LQ_KXXP144-SYSVG-124
+Added Net: Name=PTD14
+Added Pin To Net: NetName=PTD15 Pin=1.44LCD-13
+Added Pin To Net: NetName=PTD15 Pin=LQ_KXXP144-SYSVG-123
+Added Net: Name=PTD15
+Added Pin To Net: NetName=PTE0 Pin=1.44LCD-10
+Added Pin To Net: NetName=PTE0 Pin=LQ_KXXP144-SYSVG-1
+Added Net: Name=PTE0
+Added Pin To Net: NetName=PTE1 Pin=1.44LCD-9
+Added Pin To Net: NetName=PTE1 Pin=LQ_KXXP144-SYSVG-2
+Added Net: Name=PTE1
+Added Pin To Net: NetName=PTE2 Pin=1.44LCD-8
+Added Pin To Net: NetName=PTE2 Pin=LQ_KXXP144-SYSVG-3
+Added Net: Name=PTE2
+Added Pin To Net: NetName=PTE3 Pin=1.44LCD-7
+Added Pin To Net: NetName=PTE3 Pin=LQ_KXXP144-SYSVG-4
+Added Net: Name=PTE3
+Added Pin To Net: NetName=PTE4 Pin=1.44LCD-6
+Added Pin To Net: NetName=PTE4 Pin=LQ_KXXP144-SYSVG-5
+Added Net: Name=PTE4
+Added Pin To Net: NetName=PTE5 Pin=1.44LCD-5
+Added Pin To Net: NetName=PTE5 Pin=LQ_KXXP144-SYSVG-6
+Added Net: Name=PTE5
+Added Pin To Net: NetName=PTE6 Pin=1.44LCD-4
+Added Pin To Net: NetName=PTE6 Pin=LQ_KXXP144-SYSVG-7
+Added Net: Name=PTE6
+Added Pin To Net: NetName=PTE7 Pin=1.44LCD-3
+Added Pin To Net: NetName=PTE7 Pin=LQ_KXXP144-SYSVG-8
+Added Net: Name=PTE7
+Added Pin To Net: NetName=V3.3_1 Pin=1.44LCD-20
+Added Pin To Net: NetName=V3.3_1 Pin=C5-1
+Added Pin To Net: NetName=V3.3_1 Pin=C6-1
+Added Pin To Net: NetName=V3.3_1 Pin=P1-1
+Added Pin To Net: NetName=V3.3_1 Pin=U2-3
+Added Net: Name=V3.3_1
+Added Pin To Net: NetName=V3.3 Pin=C1-1
+Added Pin To Net: NetName=V3.3 Pin=C2-1
+Added Pin To Net: NetName=V3.3 Pin=FFC1-22
+Added Pin To Net: NetName=V3.3 Pin=LQ_KXXP144-SYSVG-45
+Added Pin To Net: NetName=V3.3 Pin=Q1-1
+Added Pin To Net: NetName=V3.3 Pin=R5-2
+Added Pin To Net: NetName=V3.3 Pin=R6-2
+Added Pin To Net: NetName=V3.3 Pin=U1-3
+Added Net: Name=V3.3
+Added Pin To Net: NetName=V5.0 Pin=C8-1
+Added Pin To Net: NetName=V5.0 Pin=C10-1
+Added Pin To Net: NetName=V5.0 Pin=P1-2
+Added Pin To Net: NetName=V5.0 Pin=P4-3
+Added Pin To Net: NetName=V5.0 Pin=U3-3
+Added Net: Name=V5.0
+Added Pin To Net: NetName=V_BAT Pin=C3-1
+Added Pin To Net: NetName=V_BAT Pin=C4-1
+Added Pin To Net: NetName=V_BAT Pin=C7-1
+Added Pin To Net: NetName=V_BAT Pin=C9-1
+Added Pin To Net: NetName=V_BAT Pin=K1-3
+Added Pin To Net: NetName=V_BAT Pin=K2-1
+Added Pin To Net: NetName=V_BAT Pin=K2-2
+Added Pin To Net: NetName=V_BAT Pin=U1-1
+Added Pin To Net: NetName=V_BAT Pin=U2-1
+Added Pin To Net: NetName=V_BAT Pin=U3-1
+Added Pin To Net: NetName=V_BAT Pin=U4-1
+Added Pin To Net: NetName=V_BAT Pin=U4-2
+Added Net: Name=V_BAT
+Added Pin To Net: NetName=V_MOT Pin=*H2-1
+Added Pin To Net: NetName=V_MOT Pin=K2-3
+Added Net: Name=V_MOT
+Added Pin To Net: NetName=VCC-5.5V Pin=C11-1
+Added Pin To Net: NetName=VCC-5.5V Pin=P2-2
+Added Pin To Net: NetName=VCC-5.5V Pin=R2-2
+Added Pin To Net: NetName=VCC-5.5V Pin=U4-4
+Added Net: Name=VCC-5.5V
+Added Class: Name=B车模摄像头
+Added Room: Name=B车模摄像头

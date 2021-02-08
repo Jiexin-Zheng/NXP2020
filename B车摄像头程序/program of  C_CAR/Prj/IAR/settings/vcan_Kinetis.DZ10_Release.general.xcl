@@ -1,0 +1,15 @@
+"D:\IAR\arm\bin\armproc.dll" 
+
+"D:\IAR\arm\bin\armjlink2.dll" 
+
+"D:\intelligent vehicle\temporary\第13届智能车摄像头组方案 - our version\B车摄像头程序\program of  C_CAR\Prj\IAR\DZ10_Release\Exe\vcan_Kinetis.out" 
+
+--plugin="D:\IAR\arm\bin\armbat.dll" 
+
+--device_macro="D:\IAR\arm\config\debugger\NXP\Kxx.dmac" 
+
+--device_macro="D:\IAR\arm\config\debugger\NXP\Kxx_Trace.dmac" 
+
+
+
+
